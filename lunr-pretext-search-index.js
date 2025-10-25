@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2",
   "title": "My Additional Section",
-  "body": " My Additional Section  foo   The graph made by TikZ   A 5-cycle     bar  "
+  "body": " My Additional Section  foo   The graph made by TikZ   A 5-cycle      The graph of made by TikZ   The sine function     bar  "
 },
 {
   "id": "figure-tikz-example-diagram",
@@ -44,6 +44,15 @@ var ptx_lunr_docs = [
   "number": "2.1",
   "title": "",
   "body": " The graph made by TikZ   A 5-cycle    "
+},
+{
+  "id": "figure-tikz-example-graph",
+  "level": "2",
+  "url": "section-2.html#figure-tikz-example-graph",
+  "type": "Figure",
+  "number": "2.2",
+  "title": "",
+  "body": " The graph of made by TikZ   The sine function    "
 }
 ]
 
